@@ -1,0 +1,38 @@
+.categories-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
+
+.categories-card {
+    margin: 5%;
+    height: 450px;
+    
+}
+
+.card-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.categories-card:hover {
+    background-color: aquamarine;
+    border: 3px solid black;
+    padding: 1%;
+}
+
+.categories-button {
+    margin: 0;
+    position: absolute;
+    margin-top: 15px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color:aquamarine;
+    color: black;
+    font-weight: bold;
+}
+
+
+

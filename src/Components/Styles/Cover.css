@@ -1,0 +1,10 @@
+.carrousel-img {
+    object-fit: cover;
+    height: 600px;
+}
+
+.carrousel-text {
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 25px;
+}

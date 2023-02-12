@@ -1,0 +1,17 @@
+.counter {
+    font-weight: bold;
+}
+
+.button-add {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+
+}
+
+.button-remove {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+
+}
